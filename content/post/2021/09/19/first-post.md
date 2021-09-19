@@ -22,3 +22,5 @@ aliases: ["/post/sixshop-guide-1"]
 
 ### Second header
 
+![sixshop-description-image](/images/sixshop/002.jpg)
+

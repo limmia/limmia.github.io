@@ -42,3 +42,6 @@ languages:
     contentDir: content
     languageName: 한국어
     weight: 2
+
+staticDir:
+- static
