@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>미아의 블로그</title>
-    <link>https://limmia.github.io/</link>
-    <description>Recent content on 미아의 블로그</description>
+    <title>design on 미아의 블로그</title>
+    <link>https://limmia.github.io/tags/design/</link>
+    <description>Recent content in design on 미아의 블로그</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://limmia.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://limmia.github.io/tags/design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My first post</title>
       <link>https://limmia.github.io/post/2021/09/19/first-post/</link>
