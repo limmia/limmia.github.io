@@ -29,4 +29,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: website
-          publish_dir: ./docs
+          publish_dir: ./public
+          allow_empty_commit: true
